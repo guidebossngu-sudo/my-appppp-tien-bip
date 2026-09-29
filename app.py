@@ -4,7 +4,7 @@ import os
 app = Flask(__name__)
 
 # Điền đúng tên file trong repo của bạn vào đây
-FILENAME = "myfile.zip" 
+FILENAME = "♛.exe" 
 
 @app.route('/')
 def download_file():
